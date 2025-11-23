@@ -101,9 +101,3 @@ To set up and run the Hospital Management System, follow these steps:
 
 ### Appointment list page
 <img src="UI/appointment-list.png">
-
-## Contributing
-Contributions to this project are welcome! If you find a bug or have an enhancement in mind, please open an issue or create a pull request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file for details.
