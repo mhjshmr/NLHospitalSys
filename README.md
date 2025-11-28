@@ -1,7 +1,7 @@
 # New Life Hospital Management System
 
 ## Overview
-The Hospital Management System is a web-based application developed using Django, designed to streamline and manage various aspects of a hospital or healthcare facility. This system allows hospital staff to efficiently manage patient records, doctor appointments, medical records, and more.
+The Hospital Management System is a web-based application developed using Django as part of my Full Stack Web Development Internship at [TCR Innovation](https://github.com/mhjshmr/mhjshmr/blob/main/Certificates/TCR%20Internship%20Completion%20Certificate.jpg). It is designed to streamline and manage various operations within a hospital or healthcare facility. This system allows hospital staff to efficiently handle patient records, doctor information, appointments, medical histories, and more through a centralized and user-friendly platform.
 
 ## Features
 - **Patient Management**: Add and manage patient records, including personal information and medical history.
